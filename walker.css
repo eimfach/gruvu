@@ -25,7 +25,8 @@ window .box-wrapper {
 
 /* ===== Inner frame ===== */
 window .content {
-  border: 2px solid #d8a657;        /* inner gold */
+  /* border: 2px solid #d8a657;*/
+  border: 2px solid #1d2021;
   padding: 4px;
 }
 
@@ -63,7 +64,7 @@ child:hover {
 
 /* ===== Selected item ===== */
 child:selected {
-  background: #86a799;              /* yellow highlight */
+  background: #a48e68;              /* yellow highlight */
   border-radius : 8px;
 }
 
